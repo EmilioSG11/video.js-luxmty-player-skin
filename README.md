@@ -9,14 +9,16 @@ Buy [Full Skin](https://ko-fi.com/s/9194d0cea1) <br>
 
 ## Screenshots
 • Tablets and pc
-![demo]()
-![demo]()
-![demo]()
+![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-player-skin/main/images/img1.jpg)
+![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-player-skin/main/images/img2.jpg)
+![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-player-skin/main/images/img3.jpg)
+![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-player-skin/main/images/img4.jpg)
 
 • Mobile
-![demo]()
-![demo]()
-![demo]()
+![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-player-skin/main/images/img6.jpg)
+![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-player-skin/main/images/img7.jpg)
+![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-player-skin/main/images/img8.jpg)
+![demo](![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-player-skin/main/images/img9.jpg))
 
 # Custom error image
-![demo]()
+![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-player-skin/main/images/img5.jpg)
