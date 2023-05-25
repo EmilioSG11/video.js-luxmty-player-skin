@@ -1,5 +1,5 @@
 # video.js-luxmty-player-skin
-Skin for new [videojs](http://videojs.com/) version 8.3.0 with dark, red and white color combination... You can change forr others colors<br>
+Skin for new [videojs](http://videojs.com/) version 8.3.0 with dark, red and white color combination... You can change for others colors<br>
 
 # Free demo
 Codepen [Free Demo](https://codepen.io/emiliosg11/pen/XWPMqWj) <br>
