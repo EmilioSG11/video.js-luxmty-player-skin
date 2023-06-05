@@ -2,7 +2,7 @@
 Skin for new [videojs](http://videojs.com/) version 8.3.0 with dark, red and white color combination... You can change for other colors<br>
 
 ## Features
-![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-player-skin/main/images/20230605_104223_0000.png)
+![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-player-skin/main/images/features.png)
 
 # Free demo
 Codepen [Free Demo](https://codepen.io/emiliosg11/pen/XWPMqWj) <br>
@@ -28,4 +28,4 @@ Buy [Full Skin](https://ko-fi.com/s/9194d0cea1) <br>
 ![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-player-skin/main/images/screenshot11.jpg)
 
 # Custom error image
-![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-player-skin/main/images/img5.jpg)
+![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-player-skin/main/images/error-display.jpg)
