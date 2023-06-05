@@ -8,7 +8,7 @@ Skin for new [videojs](http://videojs.com/) version 8.3.0 with dark, red and whi
 Codepen [Free Demo](https://codepen.io/emiliosg11/pen/XWPMqWj) <br>
 
 # Full skin 
-Buy [Full Skin](https://ko-fi.com/s/9194d0cea1) <br>
+Buy [Full Skin](https://codecanyon.net/item/videojs-luxmty-player-skin/45989676) <br>
 
 ## Screenshots
 • Mobile
