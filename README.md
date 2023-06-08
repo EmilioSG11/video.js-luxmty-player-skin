@@ -11,7 +11,6 @@ Codepen [Free Demo](https://codepen.io/emiliosg11/pen/XWPMqWj) <br>
 Buy [Full Skin](https://ko-fi.com/s/9194d0cea1) <br>
 
 ## Screenshots
-• Mobile
 ![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-player-skin/main/images/screenshot1.jpg)
 ![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-player-skin/main/images/screenshot2.jpg)
 ![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-player-skin/main/images/screenshot3.jpg)
@@ -20,12 +19,6 @@ Buy [Full Skin](https://ko-fi.com/s/9194d0cea1) <br>
 ![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-player-skin/main/images/screenshot6.jpg)
 
 
-• Tablets and pc
-![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-player-skin/main/images/screenshot7.jpg)
-![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-player-skin/main/images/screenshot8.jpg)
-![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-player-skin/main/images/screenshot9.jpg)
-![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-player-skin/main/images/screenshot10.jpg)
-![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-player-skin/main/images/screenshot11.jpg)
 
 # Custom error image
 ![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-player-skin/main/images/error-display.jpg)
