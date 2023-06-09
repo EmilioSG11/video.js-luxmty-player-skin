@@ -11,7 +11,7 @@ Buy [Full Skin](https://ko-fi.com/s/9194d0cea1) <br>
 ![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-player-skin/main/images/screenshot1.jpg)
 ![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-player-skin/main/images/screenshot2.jpg)
 ![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-player-skin/main/images/screenshot3.jpg)
-![demo](https://raw..com/EmilioSG11/video.js-luxmty-player-skin/main/images/screenshot4.jpg)
+![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-player-skin/main/images/screenshot4.jpg)
 ![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-player-skin/main/images/screenshot5.jpg)
 ![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-player-skin/main/images/screenshot6.jpg)
 
