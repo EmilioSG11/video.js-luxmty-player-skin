@@ -4,6 +4,9 @@ Redisgned [Luxmty Player Skin](https://ko-fi.com/s/9194d0cea1) for new [videojs]
 ## Features
 ![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-player-skin/main/images/features.png)
 
+# Free demo
+Codepen [Free Demo](https://codepen.io/emiliosg11/pen/XWPMqWj) <br>
+
 # Full skin 
 Buy [Full Skin](https://ko-fi.com/s/9194d0cea1) <br>
 
