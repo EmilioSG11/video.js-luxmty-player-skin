@@ -1,5 +1,5 @@
 # video.js-luxmty-player-skin
-Redisgned [Luxmty Player Skin](https://ko-fi.com/s/9194d0cea1) for new [videojs](https://videojs.com/) version 8.3.0+ with dark, red and white color combination... You can change for other colors<br>
+Redisgned [Luxmty Player Skin](https://ko-fi.com/s/9194d0cea1) for new [videojs](https://videojs.com/) version 8.5.2 with dark, red and white color combination... You can change for other colors<br>
 
 ## Features
 ![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-player-skin/main/images/features.png)
